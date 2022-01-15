@@ -91,7 +91,7 @@
     "png2icons": "2.0.1",
     "prop-types": "15.7.2",
     "pug-html-loader": "1.1.5",
-    "shelljs": "0.8.3",
+    "shelljs": "0.8.5",
     "snazzy": "8.0.0",
     "spectron": "10.0.1",
     "standard": "13.1.0",
